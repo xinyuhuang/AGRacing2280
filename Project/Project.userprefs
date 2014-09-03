@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AGR2280\Classes\Server\Entity\Managers\AGRShipHUDModule.cs">
+    <Files>
+      <File FileName="Assets\AGR2280\Classes\Server\Entity\Managers\AGRShipHUDModule.cs" Line="350" Column="4" />
+      <File FileName="Assets\AGR2280\Classes\Server\Entity\Base\AGRShipSettingsContainer.cs" Line="426" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
