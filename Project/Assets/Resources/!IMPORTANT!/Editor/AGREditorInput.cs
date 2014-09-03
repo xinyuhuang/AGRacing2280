@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.Collections;
 
-[CustomEditor(typeof(AGREditorInputObject))] 
+[CustomEditor(typeof(AGREdInputObject))] 
 public class AGREditorInput : Editor {
 
 	public static Event AGR2280EditorInput;

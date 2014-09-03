@@ -1,15 +1,16 @@
-﻿//  ////////////////////////////////////
+﻿#if UNITY_EDITOR
+//  ////////////////////////////////////
 //  Modified version of CubemapMaker.js from BlackIce studio http://www.blackicegames.de/development/?site=dl&id=1
 //  Converted to C# and make it compatible for Lux
 //
 
 using UnityEngine;
 using System.Collections;
-#if UNITY_EDITOR
+
 using UnityEditor;
 using System.Collections.Generic;
 using System.IO;
-#endif
+
 
 [ExecuteInEditMode]
 [AddComponentMenu("Lux/Lux Environment Probe")]
@@ -488,3 +489,4 @@ public class LuxEnvProbe : MonoBehaviour {
         SPECCube = AssetDatabase.LoadAssetAtPath(SpecPath, (typeof(Cubemap))) as Cubemap;
     }
 }
+#endif
