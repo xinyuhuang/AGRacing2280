@@ -1,6 +1,8 @@
 ## Welcome to AGR2280!
+AGR2280 is a Wipeout fangame that looks to keep the original modern Wipeout formula alive while expanding on key gameplay elements. At the moment development is closed until Unity 5 is released so don't expect this repostory to update until then. I want the first milestone of AGR2280 to be something very special that Wipeout fanatics alike can test and really help shape the game, and to do this I first want a solid physics engine...and a good physically based shading model.
 
-AGR2280 is an open source Wipeout fangame that I started with the closure of Studio Liverpool as my attempt to keep Wipeout alive. It's my first serious project and my goal is for the game to be nothing short of the true Wipeout experience. It's obviously going to be free and if you want to help with the actual game itself as apposed to just playing it and/or making your own project then contact me and I'll be happy for you to join in!
+## Physics
+The biggest role in AGR2280's development is physics. All of the design stuff can come later, my main focus is getting the physics perfect so that the design of the game can just fit with that physics model to create a smooth playing game. This might take a while and I'm always interested in people who want to start helping develop ideas and assets, so feel free to contact me if you want to help in that regard!
 
 ## System Requirements
 
