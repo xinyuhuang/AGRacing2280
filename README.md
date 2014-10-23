@@ -4,7 +4,7 @@ AGR2280 is a Wipeout fangame that looks to keep the original modern Wipeout form
 ## Physics
 The biggest role in AGR2280's development is physics. All of the design stuff can come later, my main focus is getting the physics perfect so that the design of the game can just fit with that physics model to create a smooth playing game. This might take a while and I'm always interested in people who want to start helping develop ideas and assets, so feel free to contact me if you want to help in that regard!
 
-## System Requirements
+## System Requirements ( The current stuff, that can't be suggested yet)
 
 Since there's nothing specific right now, here's a list of fundemental system requirements:
 
@@ -15,4 +15,9 @@ Since there's nothing specific right now, here's a list of fundemental system re
 * A keyboard and/or a gamepad that works, it might be hard to play if these are broken.
 * A display, preferably one that works
 
+## System Requirements ( UE4's requirements )
 
+* Windows 7 64-bit | Mac OSX 10.9.2 or later
+* Dual Core Intel/AMD Processor, 2.5Ghz or faster
+* DX11 compatible GPU
+* 8GB RAM
