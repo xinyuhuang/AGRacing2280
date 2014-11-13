@@ -1,3 +1,4 @@
+This repository will update when Unity 5 is offically out, I'm not sure about Unity's rules on sharing repositories with beta version of Unity. Also the latest version would be unusable to anyone who hasn't pre-oredered Unity 5.
 ## Welcome to AGR2280!
 AGR2280 is a Wipeout fangame that looks to keep the original modern Wipeout formula alive while expanding on key gameplay elements. At the moment development is closed until Unity 5 is released so don't expect this repostory to update until then. I want the first milestone of AGR2280 to be something very special that Wipeout fanatics alike can test and really help shape the game, and to do this I first want a solid physics engine...and a good physically based shading model.
 
